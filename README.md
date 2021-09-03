@@ -1,3 +1,5 @@
+This repository is deprecated.
+
 ios-sim
 =======
 
